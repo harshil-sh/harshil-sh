@@ -30,9 +30,9 @@ zero-downtime requirements.
 
 | Project | What it is | Stack |
 |---|---|---|
-| [Microservices Reference Architecture](https://github.com/harshil-sh) | Event-driven .NET 8 services with RabbitMQ, OpenTelemetry tracing | .NET 8 · RabbitMQ · Docker |
-| [Regulatory Intake Pipeline](https://github.com/harshil-sh) | Serverless document processing with Azure Functions + Event Grid | Azure Functions · Event Grid |
-| [SQL Performance Lab](https://github.com/harshil-sh) | Query optimisation scenarios on 10M-row datasets with execution plans | SQL Server · T-SQL |
+| [Microservices Reference Architecture](https://github.com/harshil-sh/microservices-reference-arch) | Event-driven .NET 8 services with RabbitMQ, OpenTelemetry tracing | .NET 8 · RabbitMQ · Docker |
+| [Regulatory Intake Pipeline](https://github.com/harshil-sh/azure-regulatory-intake-pipeline) | Serverless document processing with Azure Functions + Event Grid | Azure Functions · Event Grid |
+| [SQL Performance Lab](https://github.com/harshil-sh/sql-performance-lab1) | Query optimisation scenarios on 10M-row datasets with execution plans | SQL Server · T-SQL |
 
 ---
 
